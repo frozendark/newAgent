@@ -1,0 +1,10 @@
+module.exports = {
+  arrowParens: 'avoid',
+  endOfLine: 'lf',
+  printWidth: 100,
+  proseWrap: 'preserve',
+  semi: true,
+  singleQuote: true,
+  tabWidth: 2,
+  trailingComma: 'es5',
+};
